@@ -1,1 +1,0 @@
-/home/daivasmara/Projects/sandbox/rust/rust_book/12/minigrep/target/debug/minigrep: /home/daivasmara/Projects/sandbox/rust/rust_book/12/minigrep/src/lib.rs /home/daivasmara/Projects/sandbox/rust/rust_book/12/minigrep/src/main.rs
